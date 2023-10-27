@@ -1,3 +1,3 @@
 # logica-programacao
 
-Envio do primeiro desafio concluído ##CLASSIFICADOR DE NÍVEL DE HERÓI##
+Destinatarios de todos os códigos de desafio.
